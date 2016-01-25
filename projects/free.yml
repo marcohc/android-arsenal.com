@@ -93,6 +93,8 @@ categories:
       projects:
         - name: Android Bootstrap
           url: http://www.androidbootstrap.com
+        - name: Android Clean Architecture
+          url: https://github.com/marcohc/android-clean-architecture
         - name: DroidParts
           url: http://droidparts.org
         - name: Ignition
